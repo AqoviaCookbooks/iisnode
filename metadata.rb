@@ -1,0 +1,7 @@
+name 'iisnode'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures iisnode'
+long_description 'Installs/Configures iisnode'
+version '0.1.0'
