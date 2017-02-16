@@ -2,7 +2,7 @@
 # Cookbook Name:: iisnode
 # Spec:: default
 #
-# Copyright (c) 2017 The Authors, All Rights Reserved.
+# Copyright (c) 2017 Aqovia, All Rights Reserved.
 
 require 'spec_helper'
 
