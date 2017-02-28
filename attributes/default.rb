@@ -1,0 +1,1 @@
+default['iisnode']['iis_flavour'] = 'full'
