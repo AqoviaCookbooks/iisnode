@@ -1,5 +1,5 @@
 
-default['iisnode']['iis_edition'] = 'full'
+default['iisnode']['desktop_iis_edition'] = 'express'
 default['iisnode']['store']['url'] = 'https://github.com/Azure/iisnode/releases/download/v0.2.21/'
 
 default['iisnode']['server']['installer']['x64']['file'] = 'iisnode-full-v0.2.21-x64.msi'
