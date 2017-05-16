@@ -2,4 +2,4 @@
 Chef cookbook for installing iisnode
 
 ## Attributes
-* `node['iisnode']['iis_flavour']: ` Flavour of IIS to install iisnode into: `full` or `express`. Default: `full`
+* `node['iisnode']['desktop_iis_edition']: ` Set attribute to override default IIS Express selection for desktop windows versions: `full` or `express`. Default: `express`
