@@ -11,11 +11,7 @@ provisioner:
   deprecations_as_errors: true
 
 platforms:
-  - name: windows-7
-  - name: windows-8
-  - name: windows-8.1
   - name: windows-10
-  - name: windows-2008r2
   - name: windows-2012r2
 
 suites:
