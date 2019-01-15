@@ -25,7 +25,7 @@ end
 url = node['iisnode']['store']['url'] + package_name
 
 include_recipe 'nodejs'
-include_recipe 'iis_urlrewrite'
+#include_recipe 'iis_urlrewrite'
 windows_package 'iisnode' do
   checksum checksum
   source url
